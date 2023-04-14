@@ -8,7 +8,6 @@ html, body {
 
 #panels {
     display: flex;
-    /* border: 1px solid black; */
     min-height: 100vh;
 }
 
@@ -28,7 +27,6 @@ html, body {
     transition: all 0.5s;
     background-position: center;
     scale: 0.9;
-    /* border: 10px solid black; */
 }
 
 .grow {

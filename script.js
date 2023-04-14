@@ -1,9 +1,5 @@
 const panels = document.querySelectorAll('.panel');
 
-panels.forEach(panel => {
-    panel.addEventListener('click', flexGrow);
-})
+panels.forEach(panel => panel.addEventListener('click', flexGrow));
 
-function flexGrow() {
-    console.log(this.classList.toggle('grow'));
-}
+function flexGrow() {this.classList.toggle('grow')};

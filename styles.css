@@ -12,12 +12,12 @@ html, body {
     min-height: 100vh;
 }
 
-.p1 {background-image:url(/img/1.jpg); background-size: cover; background-position-y: bottom;}
-.p2 {background-image: url(/img/2.jpg); background-size: cover;}
-.p3 {background-image: url(/img/3.jpg); background-size: cover;}
-.p4 {background-image: url(/img/4.jpg); background-size: cover;}
-.p5 {background-image: url(/img/5.jpg); background-size: cover;}
-.p6 {background-image: url(/img/6.jpg); background-size: cover; background-position-y: center;}
+.p1 {background-image:url(img/1.jpg); background-size: cover; background-position-y: bottom;}
+.p2 {background-image: url(img/2.jpg); background-size: cover;}
+.p3 {background-image: url(img/3.jpg); background-size: cover;}
+.p4 {background-image: url(img/4.jpg); background-size: cover;}
+.p5 {background-image: url(img/5.jpg); background-size: cover;}
+.p6 {background-image: url(img/6.jpg); background-size: cover; background-position-y: center;}
   
 
 .panel {

@@ -30,6 +30,7 @@ html, body {
 }
 
 .grow {
-    flex-grow: 3.5;
+    flex-grow: 5;
     scale: 1;
+    /* order: 2; */
 }
